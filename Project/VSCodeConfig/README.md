@@ -37,6 +37,7 @@ Install-Script -Name install-gitscm
 install-gitscm
 
 Install-VSCode -AdditionalExtensions @("ivanhofer.git-assistant","ms-vscode.powershell","psioniq.psi-header","gruntfuggly.todo-tree","GitHub.github-vscode-theme")
+StageCoder
 
 ## Install PS Modules
 
